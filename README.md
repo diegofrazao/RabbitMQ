@@ -1,1 +1,3 @@
 # RabbitMQ
+
+## Studies RabbitMQ repository
